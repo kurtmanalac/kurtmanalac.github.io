@@ -1,0 +1,33 @@
+p, h1, h2, h3, h4, h5, h6, li {
+	font-family: Arial;
+	font-style: normal;
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0;
+	padding: 0;
+	color: black;
+}
+h1{
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	margin: 20px;
+}
+h2{
+	font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+	font-size: 2em;
+	margin: 20px;
+}
+p{
+	text-indent: 20px;
+	margin: 20px;
+}
+body{
+	margin: 10%;
+	padding: 0;
+	float: left;
+}
+section{
+	background-color:rgba(150,75,75,0.6);
+	padding: 5% 15%;
+}
